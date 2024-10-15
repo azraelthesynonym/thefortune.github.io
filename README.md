@@ -1,29 +1,31 @@
-# Blog của Hoàng Anh
-Chào mừng đã đến với trang chủ của mình!
+# Chào các bạn, tớ là Hoàng Anh, aka Azrael 👋
 
- Về cách thức liên hệ của mình
-+ Email: dhoanganh2007@gmail.com
-+ Zalo: +84838069119 (thường không rep)
-+ Telegram: t.me/HzJunior (rep từ 3-4 tiếng sau khi ib)
-+ Facebook: Đỗ Hoàng Anh (nếu không ib được acc này)
-+ Page đang quản lý: Fanpage Toram Online Việt Nam
-https://www.facebook.com/fanpage.toramonline.vietnam?mibextid=ZbWKwL
+[![Years Badge](https://badges.pufler.dev/years/vngctcreative)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/vngctcreative)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/vngctcreative)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/vngctcreative)](https://badges.pufler.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=vngctcreative&style=flat-square)
 
- Về thành tích của mình
-+ Hạng điểm thứ 70 Việt Nam trên Vietnam Online Judge (VNOJ)
-https://oj.vnoi.info/user/kurtvn_dhoanganh
-+ Hạng điểm thứ 198, 199 Hà Nội trên Hanoi Online Judge (HNOJ)
-https://hnoj.edu.vn/user/dhoanganh2007
-https://hnoj.edu.vn/user/simonismeee
+## Về bản thân
+- 🎂 Lập trình viên mới bắt đầu, 17 tuổi, đam mê học hỏi và khám phá các công nghệ mới.
+- 🚀 Luôn sẵn sàng đối mặt với những thử thách mới và hợp tác với người khác.
+- 🌱 Hiện đang rèn luyện kỹ năng trong bảo vệ an toàn an ninh mạng.
 
- Về mạng xã hội của mình
-+ Instagram: https://www.instagram.com/xclazrael_
-+ TikTok: https://www.tiktok.com/@xclazrael_
-+ Steam: https://steamcommunity.com/id/xclazrael_/
+## Sở thích
+- 👨‍💻 **Lập trình:** Mình thích lập trình và phát triển các dự án mới.
+- 🕹️ **Chơi game:** Game thủ đam mê với các trò chơi RPG và chiến thuật.
 
- Lưu ý về mình:
-+ Ngất sau 12h đêm đến 6 rưỡi sáng, đi học từ 7h30 sáng - 5h chiều nên vui lòng không nhắn trong khung giờ này (trừ T7-CN rep cả ngày)
-+ SIÊU CẤP HƯỚNG LỘI 😭
-+ Mình KHÔNG NHẬN QUẢNG CÁO GAME KHÁC.
+## Hãy liên hệ nếu bạn muốn hợp tác, thảo luận, hoặc chỉ đơn giản là trò chuyện. Tôi luôn sẵn sàng đón nhận các cơ hội và kết bạn với những người mới!
+- 📧 [Email](mailto:dhoanganh2007@gmail.com)
+- 🔗 [Discord](https://discord.gg/xerS8r8Qwx)
 
-Vậy là hết rồi, cảm ơn bạn đã đọc đến đây 🫰
+## Kỹ năng của tôi
+
+| Các ngôn ngữ lập trình thành thạo | Công cụ và Công nghệ |
+|---------------------|----------------------|
+| ![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5) | ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git) |
+| ![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3) | ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker) |
+| ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java) | ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) |
+| ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js) | ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql) | 
+| ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python) | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb) | 
+| ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql) |

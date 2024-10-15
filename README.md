@@ -1,25 +1,30 @@
-# Chào các bạn, tớ là Hoàng Anh, aka Azrael 👋
+# Chào mọi người, mình là Hoàng Anh, aka Azrael 👋
 
-[![Years Badge](https://badges.pufler.dev/years/vngctcreative)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/vngctcreative)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/vngctcreative)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/vngctcreative)](https://badges.pufler.dev)
-![Profile Views](https://komarev.com/ghpvc/?username=vngctcreative&style=flat-square)
+[![Years Badge](https://badges.pufler.dev/years/azraelthesynonym)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/azraelthesynonym)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/azraelthesynonym)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/azraelthesynonym)](https://badges.pufler.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=azraelthesynonym&style=flat-square)
 
-## Về bản thân
-- 🎂 Lập trình viên mới bắt đầu, 17 tuổi, đam mê học hỏi và khám phá các công nghệ mới.
-- 🚀 Luôn sẵn sàng đối mặt với những thử thách mới và hợp tác với người khác.
-- 🌱 Hiện đang rèn luyện kỹ năng trong bảo vệ an toàn an ninh mạng.
+## Về bản thân mình
+- 🎂 Lập trình viên mới bắt đầu, 17 tuổi, đam mê khám phá các công nghệ mới.
+- 🚀 Lắm mồm online, hướng nội ngoài đời
+- 🌱 Hiện đang rèn luyện kỹ năng trong bảo vệ an toàn an ninh mạng và tích lũy kinh nghiệm về phần cứng.
 
+## Các nền tảng mạng xã hội của mình
+- 📷 Instagram: https://www.instagram.com/xclazrael_
+- 🎵 TikTok: https://www.tiktok.com/@xclazrael_
+- 🎮 Steam: https://steamcommunity.com/id/xclazrael_/
+- 📷 Locket: locket.cam/azrael2007
 ## Sở thích
-- 👨‍💻 **Lập trình:** Mình thích lập trình và phát triển các dự án mới.
-- 🕹️ **Chơi game:** Game thủ đam mê với các trò chơi RPG và chiến thuật.
+- 👨‍💻 **Lập trình:** Mình thích lập trình và phát triển các dự án mới liên quan đến game.
+- 🕹️ **Chơi game:** Game thủ đam mê với các trò chơi FPS và MOBA.
 
-## Hãy liên hệ nếu bạn muốn hợp tác, thảo luận, hoặc chỉ đơn giản là trò chuyện. Tôi luôn sẵn sàng đón nhận các cơ hội và kết bạn với những người mới!
+## Hãy liên hệ nếu bạn muốn hợp tác, thảo luận, hoặc chỉ đơn giản là trò chuyện. Mình luôn sẵn sàng đón nhận các cơ hội và kết bạn với những người mới!
 - 📧 [Email](mailto:dhoanganh2007@gmail.com)
 - 🔗 [Discord](https://discord.gg/xerS8r8Qwx)
 
-## Kỹ năng của tôi
+## Kỹ năng của mình
 
 | Các ngôn ngữ lập trình thành thạo | Công cụ và Công nghệ |
 |---------------------|----------------------|

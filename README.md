@@ -26,6 +26,8 @@
 
 ## Kỹ năng của mình
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azraelthesynonym&layout=compact&theme=tokyonight&langs_count=10)
+
 | Các ngôn ngữ lập trình thành thạo | Công cụ và Công nghệ |
 |---------------------|----------------------|
 | ![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5) | ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git) |
@@ -34,3 +36,9 @@
 | ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js) | ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql) | 
 | ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python) | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb) | 
 | ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql) |
+
+## Khởi đầu của mình
+
+![Azrael's GitHub stats](https://github-readme-stats.vercel.app/api?username=azraelthesynonym&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azraelthesynonym&theme=radical)

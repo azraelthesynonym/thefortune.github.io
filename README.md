@@ -1,4 +1,4 @@
-# azraelthesynonym.github.io
+# Blog của Hoàng Anh
 Chào mừng đã đến với trang chủ của mình!
 
  Về cách thức liên hệ của mình
@@ -25,4 +25,5 @@ https://hnoj.edu.vn/user/simonismeee
 + Ngất sau 12h đêm đến 6 rưỡi sáng, đi học từ 7h30 sáng - 5h chiều nên vui lòng không nhắn trong khung giờ này (trừ T7-CN rep cả ngày)
 + SIÊU CẤP HƯỚNG LỘI 😭
 + Mình KHÔNG NHẬN QUẢNG CÁO GAME KHÁC.
+
 Vậy là hết rồi, cảm ơn bạn đã đọc đến đây 🫰

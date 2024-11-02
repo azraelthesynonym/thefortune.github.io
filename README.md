@@ -11,6 +11,9 @@
 - 🚀 Lắm mồm online, hướng nội ngoài đời
 - 🌱 Hiện đang rèn luyện kỹ năng trong bảo vệ an toàn an ninh mạng và tích lũy kinh nghiệm về phần cứng.
 
+##Project của mình
+- Azrael BOT: https://discord.com/oauth2/authorize?client_id=1208491928111284284&permissions=8&scope=bot%20applications.commands
+
 ## Các nền tảng mạng xã hội của mình
 - 📷 Instagram: https://www.instagram.com/xclazrael_
 - 🎵 TikTok: https://www.tiktok.com/@xclazrael_

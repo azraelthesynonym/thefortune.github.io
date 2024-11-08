@@ -1,47 +1,49 @@
-# Chào mọi người, mình là Hoàng Anh, aka Azrael 👋
+**Privacy Policy for AzraelBOT**
 
-[![Years Badge](https://badges.pufler.dev/years/azraelthesynonym)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/azraelthesynonym)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/azraelthesynonym)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/azraelthesynonym)](https://badges.pufler.dev)
-![Profile Views](https://komarev.com/ghpvc/?username=azraelthesynonym&style=flat-square)
+**Effective Date:** 03/11/2024
 
-## Về bản thân mình
-- 🎂 Lập trình viên mới bắt đầu, 17 tuổi, đam mê khám phá các công nghệ mới.
-- 🚀 Lắm mồm online, hướng nội ngoài đời
-- 🌱 Hiện đang rèn luyện kỹ năng trong bảo vệ an toàn an ninh mạng và tích lũy kinh nghiệm về phần cứng.
+**1. Introduction**
 
-## Project của mình
-- Azrael BOT: https://discord.com/oauth2/authorize?client_id=1208491928111284284&permissions=8&scope=bot%20applications.commands
+AzraelBOT ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you interact with our bot.
 
-## Các nền tảng mạng xã hội của mình
-- 📷 Instagram: https://www.instagram.com/xclazrael_
-- 🎵 TikTok: https://www.tiktok.com/@xclazrael_
-- 🎮 Steam: https://steamcommunity.com/id/xclazrael_/
-- 📷 Locket: locket.cam/azrael2007
-## Sở thích
-- 👨‍💻 **Lập trình:** Mình thích lập trình và phát triển các dự án mới liên quan đến game.
-- 🕹️ **Chơi game:** Game thủ đam mê với các trò chơi FPS và MOBA.
+**2. Information We Collect**
 
-## Hãy liên hệ nếu bạn muốn hợp tác, thảo luận, hoặc chỉ đơn giản là trò chuyện. Mình luôn sẵn sàng đón nhận các cơ hội và kết bạn với những người mới!
-- 📧 [Email](mailto:dhoanganh2007@gmail.com)
-- 🔗 [Discord](https://discord.gg/xerS8r8Qwx)
+- **Personal Information:** We may collect personal information that you provide to us directly, such as your name, email address, or any other information you choose to provide.
+- **Usage Data:** We may collect information about how you interact with the bot, including your device information, IP address, and interaction patterns.
 
-## Kỹ năng của mình
+**3. How We Use Your Information**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azraelthesynonym&layout=compact&theme=tokyonight&langs_count=10)
+We may use the information we collect in the following ways:
+- To provide and maintain our services.
+- To improve, personalize, and expand our services.
+- To communicate with you, including responding to your inquiries.
+- To monitor usage of our services.
 
-| Các ngôn ngữ lập trình thành thạo | Công cụ và Công nghệ |
-|---------------------|----------------------|
-| ![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5) | ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git) |
-| ![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3) | ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker) |
-| ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java) | ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) |
-| ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js) | ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql) | 
-| ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python) | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb) | 
-| ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql) |
+**4. Sharing Your Information**
 
-## Khởi đầu của mình
+We do not sell or rent your personal information to third parties. We may share your information in the following circumstances:
+- With service providers who assist us in operating our bot.
+- To comply with legal obligations or to protect our rights.
 
-![Azrael's GitHub stats](https://github-readme-stats.vercel.app/api?username=azraelthesynonym&show_icons=true&theme=radical)
+**5. Data Security**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azraelthesynonym&theme=radical)
+We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the Internet or electronic storage is 100% secure.
+
+**6. Your Rights**
+
+Depending on your location, you may have certain rights regarding your personal information, including:
+- The right to access your personal data.
+- The right to request correction of your personal data.
+- The right to request deletion of your personal data.
+
+**7. Changes to This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+**8. Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us at Discord:@azraelthesynonym.
+
+---
+
+Feel free to modify sections to suit your specific bot’s functionalities and compliance requirements.
